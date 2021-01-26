@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/notJyntax/movie_app_2020.git/static/css/main.5ccad96a.chunk.css",
+    "main.js": "/notJyntax/movie_app_2020.git/static/js/main.1d0e26b6.chunk.js",
+    "main.js.map": "/notJyntax/movie_app_2020.git/static/js/main.1d0e26b6.chunk.js.map",
+    "runtime-main.js": "/notJyntax/movie_app_2020.git/static/js/runtime-main.48e034b3.js",
+    "runtime-main.js.map": "/notJyntax/movie_app_2020.git/static/js/runtime-main.48e034b3.js.map",
+    "static/js/2.d4963bfe.chunk.js": "/notJyntax/movie_app_2020.git/static/js/2.d4963bfe.chunk.js",
+    "static/js/2.d4963bfe.chunk.js.map": "/notJyntax/movie_app_2020.git/static/js/2.d4963bfe.chunk.js.map",
+    "index.html": "/notJyntax/movie_app_2020.git/index.html",
+    "static/css/main.5ccad96a.chunk.css.map": "/notJyntax/movie_app_2020.git/static/css/main.5ccad96a.chunk.css.map",
+    "static/js/2.d4963bfe.chunk.js.LICENSE.txt": "/notJyntax/movie_app_2020.git/static/js/2.d4963bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e034b3.js",
+    "static/js/2.d4963bfe.chunk.js",
+    "static/css/main.5ccad96a.chunk.css",
+    "static/js/main.1d0e26b6.chunk.js"
+  ]
+}
